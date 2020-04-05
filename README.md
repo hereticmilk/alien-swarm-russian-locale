@@ -1,2 +1,2 @@
-# alien-swarm-russian-locale
+# Alien Swarm - Русификатор
 Первая локализация игры Alien Swarm.
