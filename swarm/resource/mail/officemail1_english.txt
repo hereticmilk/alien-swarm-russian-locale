@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA belongs to Lt Cain
+    
+	"MailFrom1"	"От: Шаун Минг"
+	"MailDate1"	"Дата: 12/21/52"
+	"MailSubject1"	"Тема: Тесты"
+	"MailBody1A"	"Лейтенант Каин,"
+	"MailBody1B"	"Кошка? Слишком мала."
+	"MailBody1C"	"Минг"
+
+	"MailFrom2"	"От: Шаун Минг"
+	"MailDate2"	"Дата: 12/22/52"
+	"MailSubject2"	"Тема: Тесты 2"
+	"MailBody2A"	"Лейтенант Каин,"
+	"MailBody2B"	"Это должно работать. Разве это проблема?"
+	"MailBody2C"	"Минг"
+}

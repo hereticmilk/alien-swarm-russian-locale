@@ -1,0 +1,18 @@
+GAME
+{
+    // PDA belongs to Vincent baker
+    
+    // inbox 
+	"MailFrom1"	"От: Хуан Росалес"
+	"MailDate1"	"Дата: 12/18/52"
+	"MailSubject1"	"Тема: Буз и младенцы?"
+	"MailBody1A"	"Эй Винк,"
+	"MailBody1B"	"Мы должны взять одну из Снежных Кошек и добраться до главного комплекса ночью."
+
+    // sent mail
+	"MailFrom3"	"Кому: Хуан Росалес"
+	"MailDate3"	"Дата: 12/18/52"
+	"MailSubject3"	"Тема: Re: Буз и младенцы?"
+	"MailBody3A"	"Конечно"
+	
+}

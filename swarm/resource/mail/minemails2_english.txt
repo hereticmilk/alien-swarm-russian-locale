@@ -1,0 +1,11 @@
+GAME
+{
+    // PDA belongs to Lt Cain
+    
+	"MailFrom1"	"От: Laura Callen"
+	"MailDate1"	"Дата: 12/24/52"
+	"MailSubject1"	"Тема: Это конец"
+	"MailBody1A"	"Военное положение?"
+	"MailBody1B"	"Уже слишком поздно."
+	"MailBody1C"	"Нам необходимо серьезное вмешательство, или мы потеряем базу."
+}

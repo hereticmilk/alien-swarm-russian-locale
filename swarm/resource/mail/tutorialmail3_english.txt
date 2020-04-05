@@ -1,0 +1,25 @@
+GAME
+{
+    // PDA belongs to Juan Rosale
+    
+    // inbox
+    
+	"MailFrom1"	"От: Винсент Бейкер"
+	"MailDate1"	"Дата: 12/18/52"
+	"MailSubject1"	"Тема: Неинтересная работа."
+	"MailBody1A"	"Эй Джунито, выглядишь как Кэмпбелл."
+
+    "MailFrom2"	"От: Винсент Бейкер"
+	"MailDate2"	"Дата: 12/18/52"
+	"MailSubject2"	"Тема: Re:Re: Неинтересная работа."
+	"MailBody2A"	"Хуан,"
+	"MailBody2B"	"Вы и Стив? Ну что ж. Присоединяйтесь к нам в любом случае."
+
+    // sent mail
+    
+	"MailFrom3"	"Кому: Винсент Бейкер"
+	"MailDate3"	"Дата: 12/18/52"
+	"MailSubject3"	"Тема: Re: Неинтересная работа."
+	"MailBody3A"	"Винк,"
+	"MailBody3B"	"Нет!"	
+}
