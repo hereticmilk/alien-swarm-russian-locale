@@ -1,2 +1,2 @@
 # Alien Swarm - Русификатор
-Первая локализация игры Alien Swarm.
+Локализация игры Alien Swarm.
